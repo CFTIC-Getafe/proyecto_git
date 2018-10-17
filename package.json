@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "Alejandro Cerezo",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
 }
